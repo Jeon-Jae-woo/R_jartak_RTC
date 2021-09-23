@@ -4,7 +4,7 @@ const app = express();
 
 //Starts the server
 
-let server = app.listen(3001, function () {
+let server = app.listen(3000, function () {
   console.log("Server is running");
 });
 
